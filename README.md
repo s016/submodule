@@ -1,2 +1,3 @@
 # submodule
 submoduleテストリポジトリ
+submoduleが更新された時の挙動を確認
